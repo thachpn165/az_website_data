@@ -1,14 +1,10 @@
 # Chương trình khuyến mãi AZDIGI - Ưu đãi Hosting, VPS, Domain
-
 **Source URL:** https://azdigi.com/blog/category/khuyen-mai/
 
----
+# Khuyến Mãi AZDIGI
+Tổng hợp các ưu đãi khuyến mãi của AZDIGI với các chương trình giảm giá cho Hosting, VPS, Server, Cloud. Cơ hội sử dụng dịch vụ AZDIGI với giá hấp dẫn.
 
-#  Khuyến Mãi AZDIGI 
-
-Tổng hợp các ưu đãi khuyến mãi của AZDIGI với các chương trình giảm giá cho Hosting, VPS, Server, Cloud. Cơ hội sử dụng dịch vụ AZDIGI với giá hấp dẫn. 
-
-[![Đón xuân Bính Ngọ – Mở lộc deal to](https://img.azdigi.com/2026/01/tet-2026-promotion-scaled-600x338.png) Khuyến mãi Đón xuân Bính Ngọ – Mở lộc deal to __Kết thúc sau: 0 ngày : 00 giờ : 00 phút : 00 giây](/blog/tin-tuc-azdigi/khuyen-mai/khuyen-mai-tet-2026)
+[Khuyến mãi Đón xuân Bính Ngọ – Mở lộc deal to __Kết thúc sau: 0 ngày : 00 giờ : 00 phút : 00 giây](/blog/tin-tuc-azdigi/khuyen-mai/khuyen-mai-tet-2026)
 
  __Đã hết hạn
 
@@ -54,13 +50,9 @@ Tổng hợp các ưu đãi khuyến mãi của AZDIGI với các chương trìn
 
 [![\[Kết thúc\] SĂN SALE “TỚI BẾN” VỚI CHƯƠNG TRÌNH THỨ 5 VUI VẺ ](https://img.azdigi.com/2024/03/Thu-5-vui-ve-Thang-3-Copy-01-scaled-600x338.png) Khuyến mãi [Kết thúc] SĂN SALE “TỚI BẾN” VỚI CHƯƠNG TRÌNH THỨ 5 VUI VẺ  __Đã hết hạn](/blog/tin-tuc-azdigi/khuyen-mai/san-sale-toi-ben-voi-chuong-trinh-thu-5-vui-ve)
 
-##  Không muốn bỏ lỡ khuyến mãi? 
-
-Đăng ký nhận thông báo để được cập nhật các ưu đãi mới nhất từ AZDIGI 
+## Không muốn bỏ lỡ khuyến mãi?
+Đăng ký nhận thông báo để được cập nhật các ưu đãi mới nhất từ AZDIGI
 
 [ __Theo dõi Facebook](https://fb.com/azdigicorp) [ __Tham gia Telegram](https://t.me/azdigicorp)
-
-
----
 
 **Pricing Keywords Found:** đ, giá 50, Đ

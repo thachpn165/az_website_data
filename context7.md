@@ -46,9 +46,14 @@ This repository contains markdown exports of all pages from azdigi.com sitemap f
 
 ## Pricing Information
 
-All pricing pages contain VND amounts. Look for patterns:
-- `XX.000đ /tháng` (monthly)
-- `XX.000đ /năm` (yearly)
+**IMPORTANT:** Always use the original VND (Vietnamese Dong) prices from the markdown files. Do NOT convert to other currencies.
+
+Price formats in files:
+- `XX.000đ /tháng` or `XX.000đ/tháng` (monthly)
+- `XX.000đ /năm` or `XX.000đ/năm` (yearly)
+- Examples: 79.000đ, 99.000đ, 239.000đ, 550.000đ
+
+When answering price questions, quote the exact VND amount from the source files.
 
 ## Sample Questions
 

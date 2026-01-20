@@ -1,104 +1,69 @@
 # Deploy Vibe Coding Website to Internet - Hosting & VPS | AZDIGI
-
 **Source URL:** https://azdigi.com/en/giai-phap/vibe-coding/
 
----
+- Vibe Coding
 
-__ Vibe Coding
+# Deploy Vibe Coding Website  To Internet
+Created a website with Cursor, Bolt, v0 or Claude? AZDIGI provides hosting and VPS infrastructure to get your product online quickly.
 
-#  Deploy Vibe Coding Website  To Internet 
+- Hosting from $1.29/month
 
-Created a website with Cursor, Bolt, v0 or Claude? AZDIGI provides hosting and VPS infrastructure to get your product online quickly. 
+- Support all frameworks
 
-__ Hosting from $1.29/month
-
-__ Support all frameworks
-
-__ VPS when scaling
+- VPS when scaling
 
 View Hosting Plans  [ Free Consultation ](/en/lien-he)
 
-##  How to deploy vibe coding products to the internet? 
-
-AZDIGI provides suitable infrastructure for each type of website/web app you've created. 
-
-__
+## How to deploy vibe coding products to the internet?
+AZDIGI provides suitable infrastructure for each type of website/web app you've created.
 
 ### Astro, React, Next.js
-
 Static or SSR websites can deploy on Hosting with Node.js. Pro Hosting or Pro Platinum suitable for most projects.
 
-__
-
 ### WordPress
-
 AI-created WordPress websites can host on any hosting plan. AZDIGI supports free installation.
 
-__
-
 ### Node.js, PHP, Python
-
 Backend web apps can run on Hosting with corresponding runtime support or VPS for full configuration control.
 
-__
-
 ### When scaling up
-
 Website with high traffic? AZDIGI is ready with VPS solutions with dedicated resources, easy to upgrade as needed.
 
-##  Popular frameworks from vibe coding 
+## Popular frameworks from vibe coding
+AZDIGI infrastructure supports deploying frameworks created by AI coding tools
 
-AZDIGI infrastructure supports deploying frameworks created by AI coding tools 
+### Astro [ __](https://astro.build)
+Modern web framework, static or SSR output. Easy deploy on hosting.
 
-__
+### Next.js [ __](https://nextjs.org)
+Popular React framework with SSR and API routes. Needs Node.js hosting.
 
-###  Astro [ __](https://astro.build)
+### React + Vite [ __](https://vitejs.dev)
+SPA (Single Page App) builds to static files. Deploy on any hosting.
 
-Modern web framework, static or SSR output. Easy deploy on hosting. 
-
-__
-
-###  Next.js [ __](https://nextjs.org)
-
-Popular React framework with SSR and API routes. Needs Node.js hosting. 
-
-__
-
-###  React + Vite [ __](https://vitejs.dev)
-
-SPA (Single Page App) builds to static files. Deploy on any hosting. 
-
-__
-
-###  WordPress [ __](https://wordpress.org)
-
-Most popular CMS, can create themes/plugins with AI. Runs on PHP hosting. 
+### WordPress [ __](https://wordpress.org)
+Most popular CMS, can create themes/plugins with AI. Runs on PHP hosting.
 
 ## Hosting for vibe coding websites
-
 Choose the hosting plan that fits your framework and project scale
 
 Pricing
 
 ## Choose the right VPS configuration
-
 Activate your VPS in just 60 seconds - Deploy today!
 
 Pro VPS PlatinumPro VPS Standard
 
-__ Cycle: 3 months6 months12 months24 months36 months __
+- Cycle: 3 months6 months12 months24 months36 months __
 
 ### Pro VPS Platinum - 1
+- CPU: 1 vCPU Platinum
 
-![Linux](/images/linux.svg)
+- RAM: 1 GB
 
-__ CPU: 1 vCPU Platinum
+- Storage: 10 GB SSD
 
-__ RAM: 1 GB
-
-__ Storage: 10 GB SSD
-
-__ Network: 200Mbps
+- Network: 200Mbps
 
 $4 __-30%
 
@@ -109,16 +74,13 @@ Total: $35
 [Sign Up](https://my.azdigi.com/cart.php?a=add&pid=410&billingcycle=annually)
 
 ### Pro VPS Platinum - 2
+- CPU: 2 vCPU Platinum
 
-![Linux](/images/linux.svg)
+- RAM: 2 GB
 
-__ CPU: 2 vCPU Platinum
+- Storage: 20 GB SSD
 
-__ RAM: 2 GB
-
-__ Storage: 20 GB SSD
-
-__ Network: 200Mbps
+- Network: 200Mbps
 
 $8 __-30%
 
@@ -131,16 +93,13 @@ Total: $70
 Recommended
 
 ### Pro VPS Platinum - 3
+- CPU: 3 vCPU Platinum
 
-![Linux](/images/linux.svg) ![Windows](/images/windows.svg)
+- RAM: 3 GB
 
-__ CPU: 3 vCPU Platinum
+- Storage: 30 GB SSD
 
-__ RAM: 3 GB
-
-__ Storage: 30 GB SSD
-
-__ Network: 200Mbps
+- Network: 200Mbps
 
 $12 __-30%
 
@@ -151,16 +110,13 @@ Total: $101
 [Sign Up](https://my.azdigi.com/cart.php?a=add&pid=412&billingcycle=annually)
 
 ### Pro VPS Platinum - 4
+- CPU: 4 vCPU Platinum
 
-![Linux](/images/linux.svg) ![Windows](/images/windows.svg)
+- RAM: 4 GB
 
-__ CPU: 4 vCPU Platinum
+- Storage: 40 GB SSD
 
-__ RAM: 4 GB
-
-__ Storage: 40 GB SSD
-
-__ Network: 200Mbps
+- Network: 200Mbps
 
 $16 __-30%
 
@@ -171,16 +127,13 @@ Total: $133
 [Sign Up](https://my.azdigi.com/cart.php?a=add&pid=413&billingcycle=annually)
 
 ### Pro VPS Platinum - 5
+- CPU: 6 vCPU Platinum
 
-![Linux](/images/linux.svg) ![Windows](/images/windows.svg)
+- RAM: 8 GB
 
-__ CPU: 6 vCPU Platinum
+- Storage: 50 GB SSD
 
-__ RAM: 8 GB
-
-__ Storage: 50 GB SSD
-
-__ Network: 200Mbps
+- Network: 200Mbps
 
 $24 __-30%
 
@@ -191,16 +144,13 @@ Total: $203
 [Sign Up](https://my.azdigi.com/cart.php?a=add&pid=414&billingcycle=annually)
 
 ### Pro VPS Platinum - 6
+- CPU: 8 vCPU Platinum
 
-![Linux](/images/linux.svg) ![Windows](/images/windows.svg)
+- RAM: 10 GB
 
-__ CPU: 8 vCPU Platinum
+- Storage: 60 GB SSD
 
-__ RAM: 10 GB
-
-__ Storage: 60 GB SSD
-
-__ Network: 200Mbps
+- Network: 200Mbps
 
 $31 __-30%
 
@@ -215,7 +165,6 @@ You can upgrade your plan anytime. AZDIGI supports seamless transitions.
 Price excludes VAT. Payment via bank transfer, VNPay, Apple Pay, QR, MoMo.
 
 ## Frequently asked questions
-
 Where can I host websites created with Cursor/Bolt/v0? __
 
 Depends on framework: Astro/React/Next.js static can deploy on Pro Hosting. WordPress needs PHP hosting. Node.js apps need VPS or hosting with Node.js support.
@@ -232,22 +181,11 @@ What if my website has high traffic? __
 
 AZDIGI is always ready with scaling solutions. You can upgrade to VPS with dedicated resources, or Cloud Server for very high traffic. Our consulting team will help you choose the right plan.
 
-Get Started 
+Get Started
 
-##  Ready to get your product online? 
-
-Contact AZDIGI team for advice on the right hosting or VPS package for your vibe coding project. 
-
-__
-
-__
-
-__
+## Ready to get your product online?
+Contact AZDIGI team for advice on the right hosting or VPS package for your vibe coding project.
 
 [ Contact us ](/en/lien-he)
 
 [ View Pro Hosting ](/en/pro-hosting)
-
-
----
-
