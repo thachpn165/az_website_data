@@ -10,6 +10,10 @@ This repository contains markdown exports of all pages from azdigi.com sitemap f
 - **Languages:** Vietnamese (primary), English (/en/ prefix)
 - **Last updated:** 2026-01-20
 
+### Special Files
+- `brand-voice.md` - Brand voice guidelines, tone, style, vocabulary for content writers
+- `context7.md` - This file, repository metadata for LLM usage
+
 ## Topics Covered
 
 ### Hosting Services
