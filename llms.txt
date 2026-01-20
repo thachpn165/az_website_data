@@ -50,6 +50,19 @@ All pricing pages contain VND amounts. Look for patterns:
 - `XX.000đ /tháng` (monthly)
 - `XX.000đ /năm` (yearly)
 
+## Sample Questions
+
+- Giá hosting NVMe của AZDIGI là bao nhiêu?
+- So sánh các gói Business Hosting của AZDIGI?
+- AZDIGI có những loại VPS nào và giá như thế nào?
+- Chính sách hoàn tiền của AZDIGI ra sao?
+- AZDIGI có hỗ trợ SSL miễn phí không?
+- Gói Pro Platinum Hosting có những tính năng gì?
+- AZDIGI có dịch vụ email hosting không? Giá bao nhiêu?
+- Cloud Server AMD của AZDIGI có cấu hình như thế nào?
+- AZDIGI cam kết chất lượng dịch vụ như thế nào?
+- Làm sao để đăng ký tên miền tại AZDIGI?
+
 ## Usage Notes
 
 When querying this data:
